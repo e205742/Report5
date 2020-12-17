@@ -1,5 +1,6 @@
 package jp.ac.uryukyu.ie.e205742;
 
+/*   Step2
 public class Main {
     public static void main(String[] args){
         try{String str = null;
@@ -12,3 +13,14 @@ public class Main {
 
     }
 }
+*/
+
+public class Main{
+    public static void main (String[] args){
+        String str = "百二十三";
+        Integer.parseInt(str);
+
+    }
+
+}
+
